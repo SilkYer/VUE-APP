@@ -1,4 +1,4 @@
-#基于Vue2.0的高仿饿了么web app
+# 基于Vue2.0的高仿饿了么web app
 初学Vue 仿作一个web app上手
 
 ## 源代码
