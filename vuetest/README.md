@@ -15,9 +15,9 @@
 
 **vue-router**：单页应用路由管理必备😎 
 
-**axios**：发起http请求😉 
+**vue-resource**：发起http请求😉 
 
-**SASS(SCSS)**：css预处理语言💪 
+**stylus**：css预处理语言💪 
 
 **Express**(上线版本是**Koa2**)：因为vue-cli是用的Express做服务器，所以开源的开发版本是Express，自己生产环境用的是Koa2。 😜 
 
