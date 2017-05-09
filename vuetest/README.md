@@ -1,6 +1,34 @@
-# sell
+#基于Vue2.0的高仿饿了么web app
+初学Vue 仿作一个web app上手
 
-> app about sell
+## 源代码
+源代码地址：👉 [GitHub](https://github.com/soloSpring/VUE-APP/tree/master/vuetest)  
+欢迎大家star和follow😄
+
+### 预览图
+![](http://opolpcrco.bkt.clouddn.com/17-5-9/41390387-file_1494327027301_2278.jpg)
+
+## 技术栈
+**Vue2**：采用最新Vue2的语法😁 
+
+**Vuex**：实现不同组件之间的状态共享✌️ 
+
+**vue-router**：单页应用路由管理必备😎 
+
+**axios**：发起http请求😉 
+
+**SASS(SCSS)**：css预处理语言💪 
+
+**Express**(上线版本是**Koa2**)：因为vue-cli是用的Express做服务器，所以开源的开发版本是Express，自己生产环境用的是Koa2。 😜 
+
+**Webpack**：自动化构建工具，大部分配置vue-cli脚手架已经弄好了，很方便。😏 
+
+**ES6**：采用ES6语法，这是趋势。👏 
+
+**CSS3**：CSS3动画及样式。👍 
+
+
+
 
 ## Build Setup
 
@@ -18,4 +46,3 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

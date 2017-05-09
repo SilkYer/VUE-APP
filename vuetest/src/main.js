@@ -21,6 +21,8 @@ const routes = [
 {	path: '/seller', component: seller}
 ];
 
+router.push('/goods')
+
 const router = new VueRouter({
 	routes,
 	linkActiveClass: 'Active'
