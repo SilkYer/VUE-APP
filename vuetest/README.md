@@ -5,7 +5,7 @@
 源代码地址：👉 [GitHub](https://github.com/soloSpring/VUE-APP/tree/master/vuetest)  
 欢迎大家star和follow😄
 
-### 预览图
+### 预览图(gif 比较大 还请耐心加载~)
 ![](http://opolpcrco.bkt.clouddn.com/17-5-15/94441630-file_1494830387589_7afe.gif)
 
 ## 技术栈
