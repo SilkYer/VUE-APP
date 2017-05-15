@@ -6,7 +6,7 @@
 欢迎大家star和follow😄
 
 ### 预览图
-![](http://opolpcrco.bkt.clouddn.com/17-5-9/30944921-file_1494339293307_e262.jpg)
+![](http://opolpcrco.bkt.clouddn.com/17-5-15/94441630-file_1494830387589_7afe.gif)
 
 ## 技术栈
 **Vue2**：采用最新Vue2的语法😁 
